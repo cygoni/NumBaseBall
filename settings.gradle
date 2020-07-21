@@ -1,0 +1,2 @@
+rootProject.name='NumBaseBall'
+include ':app'
